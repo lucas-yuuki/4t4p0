@@ -1,4 +1,4 @@
-# 🧑‍💻 Lucas Yuuki
+# Lucas Yuuki
 
 Me chamo Lucas Yuuki, tenho 21 anos. Sou estudante de engenharia de controle e automação na UFRGS com interesse em modelagem matemática, análise de dados e simulação de sistemas físicos.
 Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que envolvem desde mecânica clássica (como sistemas massa–mola e suspensão veicular) até modelos preditivos (Ciência de dados) aplicados a dados reais.

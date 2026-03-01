@@ -5,7 +5,8 @@ Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que e
 
 
 <p align="left">
-<img src="https://profile-counter.glitch.me/lucas-yuuki/count.svg" />
+    <img src="https://komarev.com/ghpvc/?username=lucas-yuuki&style=for-the-badge&color=blue" />
+
     <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -13,6 +14,7 @@ Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que e
             src="https://custom-icon-badges.demolab.com/github/stars/lucas-yuuki?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+
     <a href="https://github.com/lucas-yuuki?tab=followers">
         <img 
             alt="Seguidores" 
